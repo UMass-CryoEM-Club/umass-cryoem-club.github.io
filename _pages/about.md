@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "UMass Cryo-EM CLub"
+title: "UMass Cryo-EM Club"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
