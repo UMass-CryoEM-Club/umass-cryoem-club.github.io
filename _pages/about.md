@@ -21,3 +21,5 @@ cryo-EM projects and not be "success stories". Examples are:
 - New electron microscopy intrumentation (phase plates, cameras, volume imaging, etc.)
 
 ## Next meetings
+
+9/13
