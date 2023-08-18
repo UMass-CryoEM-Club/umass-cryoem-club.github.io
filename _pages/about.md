@@ -28,5 +28,5 @@ Chen Xu: "New developments in volumetric electron microscopy"
 
 Johannes Elferich: "New features in *cis*TEM for in-situ cryo-EM"
 
-![Flyer](flyer.png)
+![Flyer](/images/flyer.png)
 
