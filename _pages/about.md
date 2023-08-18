@@ -25,7 +25,8 @@ cryo-EM projects and not be "success stories". Examples are:
 ### September 13th 2023
 
 Chen Xu: "New developments in volumetric electron microscopy"
+
 Johannes Elferich: "New features in *cis*TEM for in-situ cryo-EM"
 
-
+![Flyer](flyer.png)
 
